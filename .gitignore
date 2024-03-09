@@ -8,3 +8,4 @@ no/**.wav
 full_tracks/**.wav
 whistles_sound/**.wav
 .ipynb_checkpoints/**
+model/**
