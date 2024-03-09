@@ -1,0 +1,10 @@
+.history/**
+.DS*
+**.wave
+**.csv
+**.mp3
+yes/**.wav
+no/**.wav
+full_tracks/**.wav
+whistles_sound/**.wav
+.ipynb_checkpoints/**
