@@ -14,3 +14,4 @@ Parsed_Capuchinbird_Clips/**
 Parsed_Not_Capuchinbird_Clips/**
 UrbanSound8K/**
 saved_models/**
+!model/model.h
